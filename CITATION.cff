@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the paper and this archive."
+title: "Replication package for: Where Does the Accuracy of LLM-Based Root-Cause Analysis Come From? An Empirical Study on Microservice Benchmarks"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Hussain
+    given-names: Muhammad Saad
+    orcid: "https://orcid.org/0009-0003-9132-9986"
+    affiliation: "Department of Computer Science, The University of Lahore, Sargodha, Pakistan"
+  - family-names: Farrukh
+    given-names: Alishba
+    affiliation: "Department of Computer Science, The University of Lahore, Sargodha, Pakistan"
+repository-code: "https://github.com/saadhussain07/llm-rca-accuracy-study"
+license: MIT
+keywords:
+  - AIOps
+  - root-cause analysis
+  - large language models
+  - microservices
+  - pre-registration
+  - RCAEval

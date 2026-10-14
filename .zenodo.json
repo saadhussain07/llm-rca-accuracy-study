@@ -1,0 +1,16 @@
+{
+  "title": "Replication package for: Where Does the Accuracy of LLM-Based Root-Cause Analysis Come From? An Empirical Study on Microservice Benchmarks",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Protocol, amendments, execution logs, code, prompt hashes, raw model responses, per-case rankings and analysis outputs of a pre-registered study of where an LLM-based root-cause analysis agent's accuracy comes from, on RCAEval RE2 and RE3. A history-free snapshot of the pre-registration record https://github.com/saadhussain07/rca-benchmark-study, whose tags carry the timing of the protocol and of each amendment.</p>",
+  "creators": [
+    {"name": "Hussain, Muhammad Saad", "affiliation": "The University of Lahore", "orcid": "0009-0003-9132-9986"},
+    {"name": "Farrukh, Alishba", "affiliation": "The University of Lahore"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["AIOps", "root-cause analysis", "large language models", "microservices", "pre-registration", "RCAEval"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/saadhussain07/rca-benchmark-study", "relation": "isDerivedFrom", "resource_type": "software"},
+    {"identifier": "https://github.com/phamquiluan/RCAEval", "relation": "references", "resource_type": "software"}
+  ]
+}
