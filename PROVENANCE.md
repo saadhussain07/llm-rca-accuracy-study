@@ -12,6 +12,11 @@ at commit `a428104679d6931234713bad46f1282369743ca1` (also in `SOURCE_COMMIT`), 
 | replaced | `README.md` (the record's README is kept in the record) |
 | added | `PROVENANCE.md`, `SOURCE_COMMIT`, `LICENSE`, `LICENSE-DATA.md`, `CITATION.cff`, `.zenodo.json`, `docs/PAPER_MAP.md`, `reproduce_analyses.sh`, `verify_provenance.sh`, `tools/compare_outputs.py` |
 
+Version 1.0.1 (16 October 2026) adds three documentation files and changes no study file:
+`docs/github_push_log.md` and `docs/github_events_2026-10-16.json` (GitHub's server-side push
+log of the record, archived before GitHub's 90-day retention ends) and `docs/test_ledger.md`
+(every hypothesis test with raw, Holm- and BH-adjusted p-values).
+
 Every other file is byte-identical to the record. `verify_provenance.sh` checks
 this file by file.
 
